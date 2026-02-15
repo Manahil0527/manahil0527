@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Manahil%20Habib&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=260&section=header&text=Manahil%20Habib&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20•%20Developer%20•%20Problem%20Solver&descAlignY=60&descAlign=50" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Manahil</h1>
-<h3 align="center">AI Enthusiast • Developer • Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManahilHabib&label=Profile%20Views&color=8E2DE2&style=flat" />
@@ -9,22 +12,22 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🌸 About Me
 
 - 💡 Curious mind exploring AI & modern software  
-- 🌱 Always learning, always building  
-- 🧠 Interested in intelligent systems & automation  
-- ✨ I enjoy turning ideas into real digital experiences  
-- 🎯 Focused on growth, creativity, and impact  
+- 🌱 Always learning & improving  
+- 🧠 Passionate about intelligent systems  
+- ⚡ Love turning ideas into real digital experiences  
+- 🎯 Focused on growth & impact  
 
 ---
 
-## 🛠 Tech I Work With
+## 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flutter,cpp,java,linux,git,docker,mongodb,postgres" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flutter,cpp,java,linux,git,docker,mongodb,postgres" />
 </p>
 
 ---
@@ -36,21 +39,29 @@
   <img src="https://streak-stats.demolab.com?user=ManahilHabib&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilHabib&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/manahil-habib" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+<a href="https://linkedin.com/in/manahil-habib" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://github.com/ManahilHabib" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/ManahilHabib" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-✨ “Building today. Improving tomorrow.”
+<p align="center">✨ “Building today. Improving tomorrow.”</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer)
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=footer" />
+</p>
