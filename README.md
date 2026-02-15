@@ -12,13 +12,11 @@
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 🌸 About Me
 
 - 💡 Curious mind exploring AI & modern software  
-- 🌱 Always learning & improving  
-- 🧠 Passionate about intelligent systems  
+- 🌱 Always learning & building  
+- 🧠 Interested in intelligent systems  
 - ⚡ Love turning ideas into real digital experiences  
 - 🎯 Focused on growth & impact  
 
@@ -35,12 +33,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManahilHabib&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=ManahilHabib&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManahilHabib&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilHabib&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=ManahilHabib&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilHabib&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -63,5 +64,5 @@
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=180&section=footer" />
 </p>
